@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisplantaru02diet_0761.png"; bbox 0 0 2198 3816; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 333 563 598">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 333 563 598">
+     <span class='ocr_line' id='line_1_1' title="bbox 107 333 405 386; baseline -0.013 -10"><span class='ocrx_word' id='word_1_1' title='bbox 107 336 252 386; x_wconf 83' lang='lat' dir='ltr'>Cyrta</span> <span class='ocrx_word' id='word_1_2' title='bbox 281 333 405 373; x_wconf 91' lang='grc'><strong>1387.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 106 387 464 441; baseline -0.02 -9"><span class='ocrx_word' id='word_1_3' title='bbox 106 389 355 441; x_wconf 75' lang='lat' dir='ltr'>cyrtandra</span> <span class='ocrx_word' id='word_1_4' title='bbox 393 387 464 426; x_wconf 88' lang='lat'><strong>44.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 107 441 563 496; baseline -0.009 -9"><span class='ocrx_word' id='word_1_5' title='bbox 107 445 408 496; x_wconf 78' lang='lat' dir='ltr'>Gyrthanthus</span> <span class='ocrx_word' id='word_1_6' title='bbox 438 441 563 483; x_wconf 87' lang='grc'><strong>1186.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 106 498 507 551; baseline -0.01 -8"><span class='ocrx_word' id='word_1_7' title='bbox 106 501 379 551; x_wconf 82' lang='lat' dir='ltr'>cysthanthe</span> <span class='ocrx_word' id='word_1_8' title='bbox 408 498 507 539; x_wconf 82' lang='lat'>689.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 108 553 464 598; baseline -0.011 0"><span class='ocrx_word' id='word_1_9' title='bbox 108 555 310 598; x_wconf 76' lang='lat' dir='ltr'>Czackia</span> <span class='ocrx_word' id='word_1_10' title='bbox 340 553 464 594; x_wconf 89' lang='grc'><strong>1153.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 829 608 3273">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 86 829 608 3273">
+     <span class='ocr_line' id='line_1_6' title="bbox 101 829 432 883; baseline -0.009 -10"><span class='ocrx_word' id='word_1_11' title='bbox 101 829 305 883; x_wconf 71' lang='lat' dir='ltr'>DactyliS</span> <span class='ocrx_word' id='word_1_12' title='bbox 332 829 432 870; x_wconf 88' lang='grc'><strong>370.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 100 884 607 938; baseline -0.008 -9"><span class='ocrx_word' id='word_1_13' title='bbox 100 886 481 938; x_wconf 83' lang='lat' dir='ltr'>Dactyloctenium</span> <span class='ocrx_word' id='word_1_14' title='bbox 507 884 607 926; x_wconf 85' lang='lat'>330.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 101 943 364 984; baseline -0.011 0"><span class='ocrx_word' id='word_1_15' title='bbox 101 945 211 984; x_wconf 79' lang='lat' dir='ltr'>Dais</span> <span class='ocrx_word' id='word_1_16' title='bbox 242 943 364 982; x_wconf 93' lang='grc'><strong>1520.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 102 996 571 1039; baseline -0.004 0"><span class='ocrx_word' id='word_1_17' title='bbox 102 999 416 1039; x_wconf 82' lang='lat' dir='ltr'>Damasonium</span> <span class='ocrx_word' id='word_1_18' title='bbox 446 996 571 1039; x_wconf 89' lang='grc'><strong>1222.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 100 1054 463 1105; baseline -0.006 -11"><span class='ocrx_word' id='word_1_19' title='bbox 100 1055 339 1105; x_wconf 81' lang='lat' dir='ltr'>Dampiera</span> <span class='ocrx_word' id='word_1_20' title='bbox 364 1054 463 1093; x_wconf 87' lang='grc'><strong>760.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 101 1109 403 1151; baseline -0.01 0"><span class='ocrx_word' id='word_1_21' title='bbox 101 1111 272 1151; x_wconf 82' lang='lat' dir='ltr'>Danais</span> <span class='ocrx_word' id='word_1_22' title='bbox 304 1109 403 1149; x_wconf 83' lang='lat'>724.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 100 1163 475 1206; baseline -0.003 0"><span class='ocrx_word' id='word_1_23' title='bbox 100 1166 350 1206; x_wconf 85' lang='lat' dir='ltr'>Danthonia</span> <span class='ocrx_word' id='word_1_24' title='bbox 376 1163 475 1205; x_wconf 86' lang='grc'><strong>345.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 100 1221 441 1271; baseline -0.006 -9"><span class='ocrx_word' id='word_1_25' title='bbox 100 1222 285 1271; x_wconf 82' lang='lat' dir='ltr'>Daphne</span> <span class='ocrx_word' id='word_1_26' title='bbox 315 1221 441 1260; x_wconf 89' lang='grc'><strong>1306.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 102 1276 460 1327; baseline -0.008 -10"><span class='ocrx_word' id='word_1_27' title='bbox 102 1277 334 1327; x_wconf 83' lang='lat' dir='ltr'>Daphnitis</span> <span class='ocrx_word' id='word_1_28' title='bbox 363 1276 460 1314; x_wconf 83' lang='lat'>543.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 101 1330 545 1383; baseline -0.005 -10"><span class='ocrx_word' id='word_1_29' title='bbox 101 1332 390 1383; x_wconf 84' lang='lat' dir='ltr'>Daphnidium</span> <span class='ocrx_word' id='word_1_30' title='bbox 421 1330 545 1372; x_wconf 83' lang='lat'>1364.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 101 1387 395 1440; baseline -0.007 -11"><span class='ocrx_word' id='word_1_31' title='bbox 101 1389 268 1440; x_wconf 75' lang='lat' dir='ltr'>Dartus</span> <span class='ocrx_word' id='word_1_32' title='bbox 295 1387 395 1427; x_wconf 86' lang='grc'><strong>693.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 98 1442 498 1494; baseline 0.003 -11"><span class='ocrx_word' id='word_1_33' title='bbox 98 1443 345 1494; x_wconf 79' lang='lat' dir='ltr'>Darwynia</span> <span class='ocrx_word' id='word_1_34' title='bbox 374 1442 498 1484; x_wconf 88' lang='grc'><strong>1516.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 99 1500 376 1540; baseline 0 -1"><span class='ocrx_word' id='word_1_35' title='bbox 99 1500 246 1540; x_wconf 86' lang='lat' dir='ltr'>Dasus</span> <span class='ocrx_word' id='word_1_36' title='bbox 278 1500 376 1539; x_wconf 90' lang='grc'><strong>759.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 98 1554 469 1605; baseline -0.008 -8"><span class='ocrx_word' id='word_1_37' title='bbox 98 1555 345 1605; x_wconf 74' lang='lat' dir='ltr'>Dasyloma</span> <span class='ocrx_word' id='word_1_38' title='bbox 371 1554 469 1594; x_wconf 82' lang='lat'>954.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 99 1610 531 1661; baseline -0.002 -9"><span class='ocrx_word' id='word_1_39' title='bbox 99 1612 372 1661; x_wconf 79' lang='lat' dir='ltr'>Dasypogon</span> <span class='ocrx_word' id='word_1_40' title='bbox 404 1610 531 1651; x_wconf 89' lang='grc'><strong>1056.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 100 1667 402 1708; baseline 0.003 -1"><span class='ocrx_word' id='word_1_41' title='bbox 100 1668 271 1707; x_wconf 80' lang='lat' dir='ltr'>Datura</span> <span class='ocrx_word' id='word_1_42' title='bbox 302 1667 402 1708; x_wconf 85' lang='grc'><strong>686.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 101 1722 409 1762; baseline -0.003 0"><span class='ocrx_word' id='word_1_43' title='bbox 101 1723 282 1762; x_wconf 71' lang='lat' dir='ltr'><strong>Daunus</strong></span> <span class='ocrx_word' id='word_1_44' title='bbox 311 1722 409 1761; x_wconf 87' lang='grc'><strong>976.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 101 1777 474 1819; baseline 0.003 -1"><span class='ocrx_word' id='word_1_45' title='bbox 101 1777 318 1818; x_wconf 82' lang='lat' dir='ltr'>Daviesia</span> <span class='ocrx_word' id='word_1_46' title='bbox 347 1777 474 1819; x_wconf 89' lang='grc'><strong>1509.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 102 1833 418 1883; baseline -0.003 -10"><span class='ocrx_word' id='word_1_47' title='bbox 102 1834 267 1883; x_wconf 84' lang='lat' dir='ltr'>Davya</span> <span class='ocrx_word' id='word_1_48' title='bbox 296 1833 418 1872; x_wconf 92' lang='lat'>1431.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 100 1888 490 1939; baseline 0.003 -10"><span class='ocrx_word' id='word_1_49' title='bbox 100 1890 359 1939; x_wconf 84' lang='lat' dir='ltr'>Decaspora</span> <span class='ocrx_word' id='word_1_50' title='bbox 392 1888 490 1930; x_wconf 89' lang='grc'><strong>637.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 100 1945 485 1987; baseline 0.005 -2"><span class='ocrx_word' id='word_1_51' title='bbox 100 1945 358 1985; x_wconf 83' lang='lat' dir='ltr'>Declieuxia</span> <span class='ocrx_word' id='word_1_52' title='bbox 385 1947 485 1987; x_wconf 87' lang='lat'>452.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 101 2002 465 2052; baseline 0 -11"><span class='ocrx_word' id='word_1_53' title='bbox 101 2002 341 2052; x_wconf 78' lang='lat' dir='ltr'>Deeringia</span> <span class='ocrx_word' id='word_1_54' title='bbox 367 2003 465 2042; x_wconf 90' lang='grc'><strong>864.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 101 2057 437 2097; baseline 0 0"><span class='ocrx_word' id='word_1_55' title='bbox 101 2058 312 2097; x_wconf 79' lang='lat' dir='ltr'>Dentella</span> <span class='ocrx_word' id='word_1_56' title='bbox 339 2057 437 2097; x_wconf 89' lang='grc'><strong>725.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 101 2113 548 2156; baseline 0.007 -4"><span class='ocrx_word' id='word_1_57' title='bbox 101 2113 424 2153; x_wconf 79' lang='lat' dir='ltr'>Desfontainea</span> <span class='ocrx_word' id='word_1_58' title='bbox 449 2113 548 2156; x_wconf 87' lang='grc'><strong>714.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 101 2169 555 2211; baseline 0.004 -2"><span class='ocrx_word' id='word_1_59' title='bbox 101 2169 398 2209; x_wconf 87' lang='lat' dir='ltr'>Desmanthus</span> <span class='ocrx_word' id='word_1_60' title='bbox 431 2172 555 2211; x_wconf 82' lang='grc'><strong>1423.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 101 2225 551 2267; baseline 0.004 -2"><span class='ocrx_word' id='word_1_61' title='bbox 101 2225 424 2265; x_wconf 80' lang='lat' dir='ltr'>Desmochaeta</span> <span class='ocrx_word' id='word_1_62' title='bbox 451 2228 551 2267; x_wconf 87' lang='grc'><strong>865.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 103 2281 499 2331; baseline 0.005 -11"><span class='ocrx_word' id='word_1_63' title='bbox 103 2282 370 2331; x_wconf 86' lang='lat' dir='ltr'>Despretzia</span> <span class='ocrx_word' id='word_1_64' title='bbox 398 2281 499 2323; x_wconf 88' lang='lat'>239.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 106 2337 491 2380; baseline 0.01 -4"><span class='ocrx_word' id='word_1_65' title='bbox 106 2337 334 2377; x_wconf 84' lang='lat' dir='ltr'><strong>Detarium</strong></span> <span class='ocrx_word' id='word_1_66' title='bbox 367 2339 491 2380; x_wconf 91' lang='grc'><strong>1516.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_34' title="bbox 103 2393 449 2434; baseline 0.006 -2"><span class='ocrx_word' id='word_1_67' title='bbox 103 2393 292 2432; x_wconf 81' lang='lat' dir='ltr'>Deutzia</span> <span class='ocrx_word' id='word_1_68' title='bbox 325 2394 449 2434; x_wconf 84' lang='lat'>1584.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 104 2449 432 2488; baseline 0.003 -1"><span class='ocrx_word' id='word_1_69' title='bbox 104 2449 307 2488; x_wconf 85' lang='lat' dir='ltr'>Deverra</span> <span class='ocrx_word' id='word_1_70' title='bbox 333 2450 432 2488; x_wconf 86' lang='lat'>954.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 104 2504 462 2553; baseline 0 -9"><span class='ocrx_word' id='word_1_71' title='bbox 104 2504 337 2553; x_wconf 77' lang='lat' dir='ltr'><strong>Deyeuxia</strong></span> <span class='ocrx_word' id='word_1_72' title='bbox 363 2505 462 2545; x_wconf 89' lang='grc'><strong>324.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_37' title="bbox 86 2560 424 2600; baseline 0 -1"><span class='ocrx_word' id='word_1_73' title='bbox 86 2560 298 2599; x_wconf 71' lang='grc' dir='ltr'><strong>’ΒίαΠιηῐι</strong></span> <span class='ocrx_word' id='word_1_74' title='bbox 331 2562 424 2600; x_wconf 92' lang='grc'><strong>104.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_38' title="bbox 102 2615 470 2657; baseline 0.003 -2"><span class='ocrx_word' id='word_1_75' title='bbox 102 2615 315 2655; x_wconf 85' lang='lat' dir='ltr'>Dianella</span> <span class='ocrx_word' id='word_1_76' title='bbox 344 2617 470 2657; x_wconf 89' lang='lat'>1113.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_39' title="bbox 103 2671 471 2713; baseline 0.008 -3"><span class='ocrx_word' id='word_1_77' title='bbox 103 2671 317 2711; x_wconf 85' lang='lat' dir='ltr'>Dianthus</span> <span class='ocrx_word' id='word_1_78' title='bbox 349 2673 471 2713; x_wconf 82' lang='lat'>1543.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_40' title="bbox 103 2728 475 2769; baseline 0.005 -2"><span class='ocrx_word' id='word_1_79' title='bbox 103 2728 349 2769; x_wconf 69' lang='lat' dir='ltr'>Dian-hena</span> <span class='ocrx_word' id='word_1_80' title='bbox 379 2729 475 2769; x_wconf 90' lang='lat'>125.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_41' title="bbox 105 2783 474 2833; baseline 0.011 -11"><span class='ocrx_word' id='word_1_81' title='bbox 105 2783 347 2833; x_wconf 85' lang='lat' dir='ltr'>Diapensia</span> <span class='ocrx_word' id='word_1_82' title='bbox 374 2785 474 2825; x_wconf 85' lang='grc'><strong>684.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_42' title="bbox 105 2839 388 2879; baseline 0.004 -1"><span class='ocrx_word' id='word_1_83' title='bbox 105 2839 262 2878; x_wconf 84' lang='lat' dir='ltr'>Diasia</span> <span class='ocrx_word' id='word_1_84' title='bbox 291 2840 388 2879; x_wconf 87' lang='grc'><strong>162.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_43' title="bbox 105 2893 465 2944; baseline 0.008 -11"><span class='ocrx_word' id='word_1_85' title='bbox 105 2893 339 2944; x_wconf 82' lang='lat' dir='ltr'>Diaspasis</span> <span class='ocrx_word' id='word_1_86' title='bbox 367 2894 465 2936; x_wconf 90' lang='grc'><strong>763.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_44' title="bbox 108 2950 475 3000; baseline 0.005 -11"><span class='ocrx_word' id='word_1_87' title='bbox 108 2950 349 3000; x_wconf 73' lang='lat' dir='ltr'><strong>Dicaryum</strong></span> <span class='ocrx_word' id='word_1_88' title='bbox 375 2951 475 2991; x_wconf 87' lang='lat'>224.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_45' title="bbox 107 3006 559 3056; baseline 0.015 -11"><span class='ocrx_word' id='word_1_89' title='bbox 107 3006 404 3056; x_wconf 82' lang='lat' dir='ltr'>Dichoglottis</span> <span class='ocrx_word' id='word_1_90' title='bbox 436 3008 559 3052; x_wconf 87' lang='grc'><strong>1543.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_46' title="bbox 107 3061 585 3106; baseline 0.01 -5"><span class='ocrx_word' id='word_1_91' title='bbox 107 3061 358 3101; x_wconf 82' lang='lat' dir='ltr'>Dichondra</span> <span class='ocrx_word' id='word_1_92' title='bbox 384 3063 482 3104; x_wconf 91' lang='grc'><strong>921.</strong></span> <span class='ocrx_word' id='word_1_93' title='bbox 574 3099 585 3106; x_wconf 80' lang='grc'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_47' title="bbox 108 3117 608 3165; baseline 0.016 -8"><span class='ocrx_word' id='word_1_94' title='bbox 108 3117 454 3158; x_wconf 82' lang='lat' dir='ltr'>Dichorisandra</span> <span class='ocrx_word' id='word_1_95' title='bbox 485 3122 608 3165; x_wconf 89' lang='grc'><strong>1055.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_48' title="bbox 108 3173 525 3217; baseline 0.012 -5"><span class='ocrx_word' id='word_1_96' title='bbox 108 3173 372 3213; x_wconf 82' lang='lat' dir='ltr'>Dichosema</span> <span class='ocrx_word' id='word_1_97' title='bbox 402 3176 525 3217; x_wconf 87' lang='lat'>1512.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_49' title="bbox 109 3229 524 3273; baseline 0.019 -7"><span class='ocrx_word' id='word_1_98' title='bbox 109 3229 400 3268; x_wconf 84' lang='lat' dir='ltr'>Dichromena</span> <span class='ocrx_word' id='word_1_99' title='bbox 425 3232 524 3273; x_wconf 88' lang='lat'>202.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 110 3283 625 3333">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 110 3283 625 3333">
+     <span class='ocr_line' id='line_1_50' title="bbox 110 3283 625 3333; baseline 0.023 -11"><span class='ocrx_word' id='word_1_100' title='bbox 110 3283 439 3328; x_wconf 84' lang='lat' dir='ltr'>Diclidanthera</span> <span class='ocrx_word' id='word_1_101' title='bbox 470 3290 593 3333; x_wconf 89' lang='grc'><strong>1387.</strong></span> <span class='ocrx_word' id='word_1_102' title='bbox 617 3305 625 3317; x_wconf 58' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 111 3338 528 3557">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 111 3338 528 3557">
+     <span class='ocr_line' id='line_1_51' title="bbox 111 3338 490 3389; baseline 0.008 -11"><span class='ocrx_word' id='word_1_103' title='bbox 111 3338 374 3389; x_wconf 85' lang='lat' dir='ltr'>Dielyptera</span> <span class='ocrx_word' id='word_1_104' title='bbox 420 3344 490 3387; x_wconf 84' lang='grc'><strong>79.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_52' title="bbox 111 3393 496 3445; baseline 0.01 -13"><span class='ocrx_word' id='word_1_105' title='bbox 111 3393 366 3445; x_wconf 83' lang='lat' dir='ltr'>Dicorypha</span> <span class='ocrx_word' id='word_1_106' title='bbox 396 3401 496 3442; x_wconf 79' lang='lat'>550.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_53' title="bbox 113 3448 527 3499; baseline 0.005 -10"><span class='ocrx_word' id='word_1_107' title='bbox 113 3448 372 3491; x_wconf 84' lang='lat' dir='ltr'>Dictamnus</span> <span class='ocrx_word' id='word_1_108' title='bbox 402 3459 527 3499; x_wconf 75' lang='lat'>1418,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_54' title="bbox 114 3504 528 3557; baseline 0.005 -10"><span class='ocrx_word' id='word_1_109' title='bbox 114 3504 402 3556; x_wconf 81' lang='lat' dir='ltr'>Dictyoloma</span> <span class='ocrx_word' id='word_1_110' title='bbox 428 3514 528 3557; x_wconf 70' lang='lat'>834.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 181 3573 238 3617">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 181 3573 238 3617">
+     <span class='ocr_line' id='line_1_55' title="bbox 181 3573 238 3617; baseline 0 0"><span class='ocrx_word' id='word_1_111' title='bbox 181 3573 238 3617; x_wconf 83' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 995 195 1192 236">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 995 195 1192 236">
+     <span class='ocr_line' id='line_1_56' title="bbox 995 195 1192 236; baseline -0.005 0"><span class='ocrx_word' id='word_1_112' title='bbox 995 195 1192 236; x_wconf 76' lang='lat' dir='ltr'>INDEX.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 744 284 843 292">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 744 284 843 292">
+     <span class='ocr_line' id='line_1_57' title="bbox 744 284 843 292; baseline -0.01 0"><span class='ocrx_word' id='word_1_113' title='bbox 744 284 843 292; x_wconf 65' lang='grc'><em>...-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 777 327 1262 2837">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 777 327 1262 2837">
+     <span class='ocr_line' id='line_1_58' title="bbox 784 327 1236 378; baseline 0 -9"><span class='ocrx_word' id='word_1_114' title='bbox 784 327 1081 378; x_wconf 76' lang='lat' dir='ltr'>Dicypellium</span> <span class='ocrx_word' id='word_1_115' title='bbox 1111 327 1236 369; x_wconf 81' lang='grc'><strong>1349.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_59' title="bbox 784 384 1116 424; baseline -0.003 0"><span class='ocrx_word' id='word_1_116' title='bbox 784 385 989 424; x_wconf 80' lang='lat' dir='ltr'>Didiscus</span> <span class='ocrx_word' id='word_1_117' title='bbox 1018 384 1116 423; x_wconf 82' lang='lat'>931.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_60' title="bbox 783 439 1150 480; baseline -0.003 0"><span class='ocrx_word' id='word_1_118' title='bbox 783 440 1020 480; x_wconf 85' lang='lat' dir='ltr'>Diectomis</span> <span class='ocrx_word' id='word_1_119' title='bbox 1050 439 1150 479; x_wconf 85' lang='lat'>412.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_61' title="bbox 782 494 1173 536; baseline -0.003 0"><span class='ocrx_word' id='word_1_120' title='bbox 782 494 1046 536; x_wconf 78' lang='lat' dir='ltr'>Dierbachia</span> <span class='ocrx_word' id='word_1_121' title='bbox 1074 494 1173 535; x_wconf 91' lang='grc'><strong>712.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_62' title="bbox 782 550 1124 591; baseline 0.003 -1"><span class='ocrx_word' id='word_1_122' title='bbox 782 550 998 590; x_wconf 84' lang='lat' dir='ltr'>Diervilla</span> <span class='ocrx_word' id='word_1_123' title='bbox 1027 550 1124 591; x_wconf 86' lang='grc'><strong>759.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_63' title="bbox 781 606 1086 656; baseline -0.003 -11"><span class='ocrx_word' id='word_1_124' title='bbox 781 607 949 656; x_wconf 82' lang='lat' dir='ltr'>Digera</span> <span class='ocrx_word' id='word_1_125' title='bbox 983 606 1086 644; x_wconf 88' lang='grc'><strong>805.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_64' title="bbox 779 661 1090 702; baseline -0.01 0"><span class='ocrx_word' id='word_1_126' title='bbox 779 662 963 702; x_wconf 81' lang='lat' dir='ltr'>Dilatris</span> <span class='ocrx_word' id='word_1_127' title='bbox 995 661 1090 700; x_wconf 89' lang='grc'><strong>162.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_65' title="bbox 779 716 1181 767; baseline 0 -9"><span class='ocrx_word' id='word_1_128' title='bbox 779 716 1028 767; x_wconf 70' lang='lat' dir='ltr'>Dillwynia</span> <span class='ocrx_word' id='word_1_129' title='bbox 1058 716 1181 758; x_wconf 86' lang='lat'>1511.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_66' title="bbox 778 774 1098 814; baseline -0.006 0"><span class='ocrx_word' id='word_1_130' title='bbox 778 774 972 814; x_wconf 80' lang='lat' dir='ltr'>Dimeria</span> <span class='ocrx_word' id='word_1_131' title='bbox 1000 774 1098 812; x_wconf 87' lang='grc'><strong>398.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_67' title="bbox 779 830 1047 870; baseline -0.004 0"><span class='ocrx_word' id='word_1_132' title='bbox 779 830 922 870; x_wconf 79' lang='lat' dir='ltr'>Dimia</span> <span class='ocrx_word' id='word_1_133' title='bbox 950 830 1047 869; x_wconf 90' lang='grc'><strong>906.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_68' title="bbox 778 883 1140 933; baseline -0.006 -8"><span class='ocrx_word' id='word_1_134' title='bbox 778 885 1016 933; x_wconf 69' lang='grc' dir='ltr'><strong>Βίῐῐιίιορίε.</strong></span> <span class='ocrx_word' id='word_1_135' title='bbox 1043 883 1140 923; x_wconf 87' lang='grc'><strong>931.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_69' title="bbox 778 941 1170 989; baseline 0 -9"><span class='ocrx_word' id='word_1_136' title='bbox 778 941 1015 989; x_wconf 82' lang='lat' dir='ltr'>Dimorpha</span> <span class='ocrx_word' id='word_1_137' title='bbox 1047 941 1170 980; x_wconf 88' lang='grc'><strong>1329.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_70' title="bbox 778 996 1092 1036; baseline 0 0"><span class='ocrx_word' id='word_1_138' title='bbox 778 996 963 1036; x_wconf 83' lang='lat' dir='ltr'>Dioclea</span> <span class='ocrx_word' id='word_1_139' title='bbox 991 996 1092 1036; x_wconf 88' lang='grc'><strong>603.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_71' title="bbox 778 1051 1063 1097; baseline -0.004 -5"><span class='ocrx_word' id='word_1_140' title='bbox 778 1051 936 1097; x_wconf 84' lang='lat' dir='ltr'>Diodia</span> <span class='ocrx_word' id='word_1_141' title='bbox 965 1053 1063 1091; x_wconf 79' lang='grc'><strong>481.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_72' title="bbox 778 1106 1134 1147; baseline 0 0"><span class='ocrx_word' id='word_1_142' title='bbox 778 1108 980 1147; x_wconf 83' lang='lat' dir='ltr'>Dionaea</span> <span class='ocrx_word' id='word_1_143' title='bbox 1009 1106 1134 1147; x_wconf 88' lang='grc'><strong>1470.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_73' title="bbox 777 1163 1084 1204; baseline -0.007 -1"><span class='ocrx_word' id='word_1_144' title='bbox 777 1163 960 1204; x_wconf 85' lang='lat' dir='ltr'>Diosma</span> <span class='ocrx_word' id='word_1_145' title='bbox 987 1164 1084 1202; x_wconf 82' lang='grc'><strong>824.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_74' title="bbox 779 1219 1171 1268; baseline 0 -9"><span class='ocrx_word' id='word_1_146' title='bbox 779 1220 1015 1268; x_wconf 75' lang='lat' dir='ltr'>Diphyllea</span> <span class='ocrx_word' id='word_1_147' title='bbox 1047 1219 1171 1259; x_wconf 80' lang='lat'>1073.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_75' title="bbox 781 1276 1196 1324; baseline 0 -9"><span class='ocrx_word' id='word_1_148' title='bbox 781 1276 1071 1324; x_wconf 81' lang='lat' dir='ltr'>Diplarrhena</span> <span class='ocrx_word' id='word_1_149' title='bbox 1101 1276 1196 1315; x_wconf 91' lang='grc'><strong>101.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_76' title="bbox 781 1330 1262 1380; baseline 0.004 -10"><span class='ocrx_word' id='word_1_150' title='bbox 781 1331 1138 1380; x_wconf 63' lang='lat' dir='ltr'>Diplocalymma</span> <span class='ocrx_word' id='word_1_151' title='bbox 1164 1330 1262 1372; x_wconf 90' lang='grc'><strong>715.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_77' title="bbox 781 1387 1225 1436; baseline 0 -10"><span class='ocrx_word' id='word_1_152' title='bbox 781 1387 1070 1436; x_wconf 82' lang='lat' dir='ltr'>Diploehaeta</span> <span class='ocrx_word' id='word_1_153' title='bbox 1101 1387 1225 1426; x_wconf 87' lang='lat'>1461.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_78' title="bbox 782 1443 1254 1491; baseline 0.002 -9"><span class='ocrx_word' id='word_1_154' title='bbox 782 1443 1103 1491; x_wconf 81' lang='lat' dir='ltr'>Diplochlaena</span> <span class='ocrx_word' id='word_1_155' title='bbox 1129 1443 1254 1484; x_wconf 85' lang='grc'><strong>1516.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_79' title="bbox 780 1499 1249 1547; baseline 0.006 -11"><span class='ocrx_word' id='word_1_156' title='bbox 780 1499 1093 1547; x_wconf 80' lang='lat' dir='ltr'>Diplopetaloil</span> <span class='ocrx_word' id='word_1_157' title='bbox 1125 1499 1249 1539; x_wconf 88' lang='grc'><strong>1279.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_80' title="bbox 779 1553 1204 1603; baseline 0.005 -11"><span class='ocrx_word' id='word_1_158' title='bbox 779 1553 1105 1603; x_wconf 78' lang='lat' dir='ltr'>Diplophyllum</span> <span class='ocrx_word' id='word_1_159' title='bbox 1134 1554 1204 1594; x_wconf 89' lang='grc'><strong>63.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_81' title="bbox 778 1609 1182 1659; baseline 0 -10"><span class='ocrx_word' id='word_1_160' title='bbox 778 1609 1058 1659; x_wconf 74' lang='lat' dir='ltr'>Diplopogon</span> <span class='ocrx_word' id='word_1_161' title='bbox 1084 1610 1182 1649; x_wconf 88' lang='grc'><strong>327.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_82' title="bbox 782 1666 1257 1715; baseline 0.006 -11"><span class='ocrx_word' id='word_1_162' title='bbox 782 1666 1102 1715; x_wconf 76' lang='lat' dir='ltr'>Diplostegium</span> <span class='ocrx_word' id='word_1_163' title='bbox 1136 1667 1257 1708; x_wconf 84' lang='grc'><strong>1449.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_83' title="bbox 781 1721 1194 1771; baseline 0.005 -10"><span class='ocrx_word' id='word_1_164' title='bbox 781 1721 1040 1771; x_wconf 71' lang='lat' dir='ltr'>Diplycosia</span> <span class='ocrx_word' id='word_1_165' title='bbox 1071 1722 1194 1763; x_wconf 88' lang='grc'><strong>1389.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_84' title="bbox 779 1777 1086 1826; baseline -0.003 -9"><span class='ocrx_word' id='word_1_166' title='bbox 779 1777 960 1826; x_wconf 84' lang='lat' dir='ltr'>Diposis</span> <span class='ocrx_word' id='word_1_167' title='bbox 989 1778 1086 1817; x_wconf 85' lang='grc'><strong>934.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_85' title="bbox 782 1833 1126 1882; baseline 0 -8"><span class='ocrx_word' id='word_1_168' title='bbox 782 1834 998 1882; x_wconf 80' lang='lat' dir='ltr'><strong>Dipsacus</strong></span> <span class='ocrx_word' id='word_1_169' title='bbox 1027 1833 1126 1874; x_wconf 86' lang='grc'><strong>446.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_86' title="bbox 783 1890 1062 1929; baseline 0 0"><span class='ocrx_word' id='word_1_170' title='bbox 783 1891 918 1929; x_wconf 84' lang='lat' dir='ltr'>Dirca</span> <span class='ocrx_word' id='word_1_171' title='bbox 942 1890 1062 1929; x_wconf 89' lang='grc'><strong>1311.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_87' title="bbox 785 1945 1134 1985; baseline -0.003 0"><span class='ocrx_word' id='word_1_172' title='bbox 785 1946 1008 1985; x_wconf 76' lang='lat' dir='ltr'>Disehidia</span> <span class='ocrx_word' id='word_1_173' title='bbox 1036 1945 1134 1984; x_wconf 88' lang='grc'><strong>895.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_88' title="bbox 784 2002 1201 2050; baseline -0.002 -9"><span class='ocrx_word' id='word_1_174' title='bbox 784 2002 1076 2050; x_wconf 85' lang='lat' dir='ltr'>Discopleura</span> <span class='ocrx_word' id='word_1_175' title='bbox 1102 2003 1201 2040; x_wconf 83' lang='lat'>941.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_89' title="bbox 785 2058 1232 2098; baseline 0.002 -1"><span class='ocrx_word' id='word_1_176' title='bbox 785 2058 1078 2097; x_wconf 74' lang='lat' dir='ltr'>DIssochaeta</span> <span class='ocrx_word' id='word_1_177' title='bbox 1110 2058 1232 2098; x_wconf 86' lang='grc'><strong>1459.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_90' title="bbox 785 2114 1095 2154; baseline -0.006 0"><span class='ocrx_word' id='word_1_178' title='bbox 785 2115 968 2154; x_wconf 76' lang='lat' dir='ltr'>Ditassa</span> <span class='ocrx_word' id='word_1_179' title='bbox 997 2114 1095 2152; x_wconf 88' lang='grc'><strong>906.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_91' title="bbox 784 2170 1229 2211; baseline -0.004 0"><span class='ocrx_word' id='word_1_180' title='bbox 784 2171 1094 2211; x_wconf 79' lang='lat' dir='ltr'>Dodecatheon</span> <span class='ocrx_word' id='word_1_181' title='bbox 1130 2170 1229 2209; x_wconf 87' lang='grc'><strong>642.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_92' title="bbox 783 2226 1246 2267; baseline -0.002 0"><span class='ocrx_word' id='word_1_182' title='bbox 783 2226 1093 2267; x_wconf 79' lang='lat' dir='ltr'>Dodecadenia</span> <span class='ocrx_word' id='word_1_183' title='bbox 1124 2227 1246 2266; x_wconf 82' lang='lat'>1363.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_93' title="bbox 785 2281 1185 2323; baseline -0.003 0"><span class='ocrx_word' id='word_1_184' title='bbox 785 2284 1031 2323; x_wconf 85' lang='lat' dir='ltr'>Dodonaea</span> <span class='ocrx_word' id='word_1_185' title='bbox 1064 2281 1185 2323; x_wconf 89' lang='grc'><strong>1305.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_94' title="bbox 785 2338 1104 2379; baseline -0.006 0"><span class='ocrx_word' id='word_1_186' title='bbox 785 2338 977 2379; x_wconf 83' lang='lat' dir='ltr'>Donatia</span> <span class='ocrx_word' id='word_1_187' title='bbox 1004 2339 1104 2377; x_wconf 83' lang='grc'><strong>416.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_95' title="bbox 785 2394 1122 2434; baseline -0.003 0"><span class='ocrx_word' id='word_1_188' title='bbox 785 2396 997 2434; x_wconf 84' lang='lat' dir='ltr'>Doraena</span> <span class='ocrx_word' id='word_1_189' title='bbox 1024 2394 1122 2433; x_wconf 90' lang='grc'><strong>601.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_96' title="bbox 785 2450 1221 2499; baseline 0 -9"><span class='ocrx_word' id='word_1_190' title='bbox 785 2451 1066 2499; x_wconf 70' lang='lat' dir='ltr'>Doryanthes</span> <span class='ocrx_word' id='word_1_191' title='bbox 1098 2450 1221 2490; x_wconf 84' lang='lat'>1196.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_97' title="bbox 786 2505 1160 2556; baseline -0.003 -10"><span class='ocrx_word' id='word_1_192' title='bbox 786 2505 1033 2556; x_wconf 81' lang='lat' dir='ltr'>Douglasia</span> <span class='ocrx_word' id='word_1_193' title='bbox 1060 2506 1160 2545; x_wconf 89' lang='grc'><strong>633.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_98' title="bbox 784 2561 1174 2602; baseline -0.003 0"><span class='ocrx_word' id='word_1_194' title='bbox 784 2561 1019 2602; x_wconf 70' lang='lat' dir='ltr'>Dracaena</span> <span class='ocrx_word' id='word_1_195' title='bbox 1049 2562 1174 2601; x_wconf 81' lang='lat'>1114.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_99' title="bbox 784 2617 1256 2667; baseline 0.004 -10"><span class='ocrx_word' id='word_1_196' title='bbox 784 2617 1130 2667; x_wconf 72' lang='lat' dir='ltr'>Dracophyllum</span> <span class='ocrx_word' id='word_1_197' title='bbox 1157 2618 1256 2659; x_wconf 88' lang='grc'><strong>689.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_100' title="bbox 785 2674 1129 2724; baseline -0.006 -9"><span class='ocrx_word' id='word_1_198' title='bbox 785 2676 1002 2724; x_wconf 81' lang='lat' dir='ltr'>Drapetes</span> <span class='ocrx_word' id='word_1_199' title='bbox 1032 2674 1129 2713; x_wconf 88' lang='grc'><strong>540.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_101' title="bbox 787 2731 1108 2771; baseline -0.006 0"><span class='ocrx_word' id='word_1_200' title='bbox 787 2731 953 2771; x_wconf 82' lang='lat' dir='ltr'>Drimia</span> <span class='ocrx_word' id='word_1_201' title='bbox 983 2731 1108 2769; x_wconf 88' lang='lat'>1110.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_102' title="bbox 783 2784 1228 2837; baseline -0.004 -10"><span class='ocrx_word' id='word_1_202' title='bbox 783 2785 1071 2837; x_wconf 71' lang='lat' dir='ltr'>Drymophila</span> <span class='ocrx_word' id='word_1_203' title='bbox 1105 2784 1228 2825; x_wconf 91' lang='grc'><strong>1157.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 786 2842 1283 2891">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 786 2842 1283 2891">
+     <span class='ocr_line' id='line_1_103' title="bbox 786 2842 1283 2891; baseline 0.002 -8"><span class='ocrx_word' id='word_1_204' title='bbox 786 2842 1130 2891; x_wconf 82' lang='lat' dir='ltr'>Drosophyllum</span> <span class='ocrx_word' id='word_1_205' title='bbox 1159 2842 1283 2884; x_wconf 89' lang='grc'><strong>1616.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 758 2897 1162 3384">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 758 2897 1162 3384">
+     <span class='ocr_line' id='line_1_104' title="bbox 758 2897 1142 2938; baseline 0 0"><span class='ocrx_word' id='word_1_206' title='bbox 758 2917 763 2920; x_wconf 92' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_207' title='bbox 786 2900 987 2938; x_wconf 80' lang='lat' dir='ltr'>Drosera</span> <span class='ocrx_word' id='word_1_208' title='bbox 1018 2897 1142 2938; x_wconf 91' lang='grc'><strong>1117.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_105' title="bbox 786 2954 1059 2994; baseline -0.011 0"><span class='ocrx_word' id='word_1_209' title='bbox 786 2956 934 2994; x_wconf 81' lang='lat' dir='ltr'>Drusa</span> <span class='ocrx_word' id='word_1_210' title='bbox 962 2954 1059 2992; x_wconf 86' lang='lat'>934.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_106' title="bbox 788 3008 1152 3059; baseline -0.005 -9"><span class='ocrx_word' id='word_1_211' title='bbox 788 3010 1024 3059; x_wconf 76' lang='lat' dir='ltr'><strong>Dryaudra</strong></span> <span class='ocrx_word' id='word_1_212' title='bbox 1052 3008 1152 3048; x_wconf 88' lang='grc'><strong>539.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_107' title="bbox 789 3065 1152 3114; baseline -0.003 -9"><span class='ocrx_word' id='word_1_213' title='bbox 789 3065 1024 3114; x_wconf 76' lang='lat' dir='ltr'>Drymaria</span> <span class='ocrx_word' id='word_1_214' title='bbox 1051 3065 1152 3104; x_wconf 84' lang='grc'><strong>849.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_108' title="bbox 790 3121 1080 3170; baseline -0.007 -10"><span class='ocrx_word' id='word_1_215' title='bbox 790 3121 954 3170; x_wconf 76' lang='lat' dir='ltr'>Drypis</span> <span class='ocrx_word' id='word_1_216' title='bbox 983 3121 1080 3158; x_wconf 85' lang='lat'>999.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_109' title="bbox 790 3175 1144 3217; baseline -0.006 0"><span class='ocrx_word' id='word_1_217' title='bbox 790 3178 1017 3217; x_wconf 79' lang='lat' dir='ltr'><strong>Dufourea</strong></span> <span class='ocrx_word' id='word_1_218' title='bbox 1044 3175 1144 3216; x_wconf 88' lang='grc'><strong>918.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_110' title="bbox 791 3232 1162 3273; baseline 0 -1"><span class='ocrx_word' id='word_1_219' title='bbox 791 3232 1034 3272; x_wconf 79' lang='lat' dir='ltr'>Dulichium</span> <span class='ocrx_word' id='word_1_220' title='bbox 1062 3232 1162 3273; x_wconf 85' lang='lat'>223.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_111' title="bbox 793 3288 1152 3337; baseline 0 -9"><span class='ocrx_word' id='word_1_221' title='bbox 793 3288 1014 3337; x_wconf 78' lang='lat' dir='ltr'><strong>Dulongia</strong></span> <span class='ocrx_word' id='word_1_222' title='bbox 1052 3288 1152 3328; x_wconf 89' lang='grc'><strong>926.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_112' title="bbox 795 3344 1112 3384; baseline -0.006 0"><span class='ocrx_word' id='word_1_223' title='bbox 795 3345 988 3384; x_wconf 85' lang='lat' dir='ltr'>Dunalia</span> <span class='ocrx_word' id='word_1_224' title='bbox 1016 3344 1112 3383; x_wconf 89' lang='grc'><strong>485.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 797 3399 1144 3452">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 797 3399 1144 3452">
+     <span class='ocr_line' id='line_1_113' title="bbox 797 3399 1144 3452; baseline 0.003 -10"><span class='ocrx_word' id='word_1_225' title='bbox 797 3399 1016 3452; x_wconf 79' lang='lat' dir='ltr'><strong>Dupontia</strong></span> <span class='ocrx_word' id='word_1_226' title='bbox 1042 3400 1144 3443; x_wconf 88' lang='grc'><strong>337.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 1959 193 2085 241">
+    <p class='ocr_par' dir='ltr' id='par_1_12' title="bbox 1959 193 2085 241">
+     <span class='ocr_line' id='line_1_114' title="bbox 1959 193 2085 241; baseline 0.016 -2"><span class='ocrx_word' id='word_1_227' title='bbox 1959 193 2085 241; x_wconf 67' lang='grc'><strong>1633</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 1724 338 1799 385">
+    <p class='ocr_par' dir='ltr' id='par_1_13' title="bbox 1724 338 1799 385">
+     <span class='ocr_line' id='line_1_115' title="bbox 1724 338 1799 385; baseline 0.013 -1"><span class='ocrx_word' id='word_1_228' title='bbox 1724 338 1799 385; x_wconf 81' lang='grc' dir='ltr'><strong>Ε.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 1456 436 1981 3556">
+    <p class='ocr_par' dir='ltr' id='par_1_14' title="bbox 1458 436 1981 1210">
+     <span class='ocr_line' id='line_1_116' title="bbox 1463 436 1907 488; baseline 0.005 -10"><span class='ocrx_word' id='word_1_229' title='bbox 1463 436 1769 488; x_wconf 84' lang='lat' dir='ltr'>Echinophora</span> <span class='ocrx_word' id='word_1_230' title='bbox 1806 438 1907 480; x_wconf 85' lang='grc'><strong>985.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_117' title="bbox 1463 494 1878 536; baseline 0.01 -3"><span class='ocrx_word' id='word_1_231' title='bbox 1463 495 1748 534; x_wconf 83' lang='lat' dir='ltr'>Echiochilon</span> <span class='ocrx_word' id='word_1_232' title='bbox 1779 494 1878 536; x_wconf 89' lang='grc'><strong>602.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_118' title="bbox 1462 550 1981 599; baseline 0.019 -11"><span class='ocrx_word' id='word_1_233' title='bbox 1462 550 1855 599; x_wconf 77' lang='lat' dir='ltr'>Echinospermum</span> <span class='ocrx_word' id='word_1_234' title='bbox 1881 554 1981 599; x_wconf 88' lang='grc'><strong>616.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_119' title="bbox 1459 605 1766 648; baseline 0.013 -5"><span class='ocrx_word' id='word_1_235' title='bbox 1459 605 1637 646; x_wconf 77' lang='lat' dir='ltr'><strong>Echiles</strong></span> <span class='ocrx_word' id='word_1_236' title='bbox 1668 607 1766 648; x_wconf 88' lang='grc'><strong>649.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_120' title="bbox 1458 660 1819 703; baseline 0.011 -4"><span class='ocrx_word' id='word_1_237' title='bbox 1458 660 1693 701; x_wconf 82' lang='lat' dir='ltr'>Echiuaria</span> <span class='ocrx_word' id='word_1_238' title='bbox 1720 661 1819 703; x_wconf 73' lang='lat'>329.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_121' title="bbox 1459 716 1890 762; baseline 0.023 -10"><span class='ocrx_word' id='word_1_239' title='bbox 1459 716 1764 757; x_wconf 79' lang='lat' dir='ltr'>Echinolaena</span> <span class='ocrx_word' id='word_1_240' title='bbox 1790 719 1890 762; x_wconf 88' lang='grc'><strong>298.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_122' title="bbox 1458 772 1766 813; baseline 0.006 -2"><span class='ocrx_word' id='word_1_241' title='bbox 1458 772 1639 811; x_wconf 82' lang='lat' dir='ltr'>Echium</span> <span class='ocrx_word' id='word_1_242' title='bbox 1666 774 1766 813; x_wconf 89' lang='grc'><strong>599.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_123' title="bbox 1462 828 1770 869; baseline 0.013 -4"><span class='ocrx_word' id='word_1_243' title='bbox 1462 828 1644 867; x_wconf 84' lang='lat' dir='ltr'>Ehretia</span> <span class='ocrx_word' id='word_1_244' title='bbox 1671 830 1770 869; x_wconf 88' lang='lat'>629.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_124' title="bbox 1461 884 1818 927; baseline 0.011 -5"><span class='ocrx_word' id='word_1_245' title='bbox 1461 884 1682 923; x_wconf 82' lang='lat' dir='ltr'>Ehrharta</span> <span class='ocrx_word' id='word_1_246' title='bbox 1721 884 1818 927; x_wconf 87' lang='grc'><strong>232.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_125' title="bbox 1462 939 1803 980; baseline 0.015 -4"><span class='ocrx_word' id='word_1_247' title='bbox 1462 939 1677 979; x_wconf 86' lang='lat' dir='ltr'>Ekt-rosia</span> <span class='ocrx_word' id='word_1_248' title='bbox 1703 941 1803 980; x_wconf 88' lang='grc'><strong>372.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_126' title="bbox 1462 994 1849 1044; baseline 0.016 -13"><span class='ocrx_word' id='word_1_249' title='bbox 1462 994 1720 1044; x_wconf 81' lang='lat' dir='ltr'>Elaeagnus</span> <span class='ocrx_word' id='word_1_250' title='bbox 1750 996 1849 1037; x_wconf 84' lang='grc'><strong>547.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_127' title="bbox 1461 1050 1922 1097; baseline 0.02 -10"><span class='ocrx_word' id='word_1_251' title='bbox 1461 1050 1794 1092; x_wconf 82' lang='lat' dir='ltr'>Elaeodendron</span> <span class='ocrx_word' id='word_1_252' title='bbox 1823 1055 1922 1097; x_wconf 84' lang='lat'>819.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_128' title="bbox 1461 1105 1917 1154; baseline 0.026 -12"><span class='ocrx_word' id='word_1_253' title='bbox 1461 1105 1792 1150; x_wconf 84' lang='lat' dir='ltr'>Elaeoselinum</span> <span class='ocrx_word' id='word_1_254' title='bbox 1820 1109 1917 1154; x_wconf 80' lang='lat'>979.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_129' title="bbox 1462 1161 1753 1210; baseline 0.021 -13"><span class='ocrx_word' id='word_1_255' title='bbox 1462 1161 1625 1210; x_wconf 81' lang='lat' dir='ltr'>Elegia</span> <span class='ocrx_word' id='word_1_256' title='bbox 1654 1164 1753 1204; x_wconf 80' lang='lat'>4¹5.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_15' title="bbox 1456 1216 1971 3556">
+     <span class='ocr_line' id='line_1_130' title="bbox 1462 1216 1743 1260; baseline 0.014 -5"><span class='ocrx_word' id='word_1_257' title='bbox 1462 1216 1587 1256; x_wconf 88' lang='lat' dir='ltr'>Elais</span> <span class='ocrx_word' id='word_1_258' title='bbox 1622 1218 1743 1260; x_wconf 87' lang='grc'><strong>1204.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_131' title="bbox 1461 1272 1874 1321; baseline 0.024 -12"><span class='ocrx_word' id='word_1_259' title='bbox 1461 1272 1715 1321; x_wconf 85' lang='lat' dir='ltr'>Elaphrium</span> <span class='ocrx_word' id='word_1_260' title='bbox 1747 1273 1874 1318; x_wconf 88' lang='grc'><strong>1271.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_132' title="bbox 1460 1327 1746 1371; baseline 0.021 -6"><span class='ocrx_word' id='word_1_261' title='bbox 1460 1327 1593 1367; x_wconf 85' lang='lat' dir='ltr'>Elate</span> <span class='ocrx_word' id='word_1_262' title='bbox 1622 1330 1746 1371; x_wconf 87' lang='grc'><strong>1063.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_133' title="bbox 1461 1384 1794 1427; baseline 0.024 -7"><span class='ocrx_word' id='word_1_263' title='bbox 1461 1384 1639 1423; x_wconf 85' lang='lat' dir='ltr'>Elatiue</span> <span class='ocrx_word' id='word_1_264' title='bbox 1671 1386 1794 1427; x_wconf 87' lang='lat'>1329.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_134' title="bbox 1462 1439 1846 1484; baseline 0.018 -7"><span class='ocrx_word' id='word_1_265' title='bbox 1462 1439 1721 1481; x_wconf 82' lang='lat' dir='ltr'>Eleocharis</span> <span class='ocrx_word' id='word_1_266' title='bbox 1752 1444 1846 1484; x_wconf 88' lang='lat'>191.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_135' title="bbox 1460 1495 1824 1545; baseline 0.019 -12"><span class='ocrx_word' id='word_1_267' title='bbox 1460 1495 1697 1545; x_wconf 80' lang='lat' dir='ltr'>Eleogiton</span> <span class='ocrx_word' id='word_1_268' title='bbox 1728 1499 1824 1540; x_wconf 88' lang='lat'>192.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_136' title="bbox 1462 1551 1797 1595; baseline 0.021 -7"><span class='ocrx_word' id='word_1_269' title='bbox 1462 1551 1671 1590; x_wconf 82' lang='lat' dir='ltr'>Eleusine</span> <span class='ocrx_word' id='word_1_270' title='bbox 1698 1553 1797 1595; x_wconf 78' lang='lat'>334.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_137' title="bbox 1459 1607 1824 1653; baseline 0.016 -7"><span class='ocrx_word' id='word_1_271' title='bbox 1459 1607 1696 1647; x_wconf 76' lang='lat' dir='ltr'>Elionurus</span> <span class='ocrx_word' id='word_1_272' title='bbox 1724 1612 1824 1653; x_wconf 86' lang='grc'><strong>410.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_138' title="bbox 1459 1663 1813 1709; baseline 0.023 -8"><span class='ocrx_word' id='word_1_273' title='bbox 1459 1663 1647 1703; x_wconf 83' lang='lat' dir='ltr'>Elliotia</span> <span class='ocrx_word' id='word_1_274' title='bbox 1687 1666 1813 1709; x_wconf 76' lang='lat'>1262.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_139' title="bbox 1456 1719 1742 1760; baseline 0.01 -3"><span class='ocrx_word' id='word_1_275' title='bbox 1456 1719 1616 1759; x_wconf 79' lang='lat' dir='ltr'>Ellisia</span> <span class='ocrx_word' id='word_1_276' title='bbox 1645 1719 1742 1760; x_wconf 89' lang='grc'><strong>631.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_140' title="bbox 1457 1775 1804 1820; baseline 0.02 -7"><span class='ocrx_word' id='word_1_277' title='bbox 1457 1775 1649 1814; x_wconf 81' lang='lat' dir='ltr'>Elvasia</span> <span class='ocrx_word' id='word_1_278' title='bbox 1682 1777 1804 1820; x_wconf 84' lang='grc'><strong>1270.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_141' title="bbox 1457 1830 1778 1879; baseline 0.019 -11"><span class='ocrx_word' id='word_1_279' title='bbox 1457 1830 1645 1879; x_wconf 80' lang='lat' dir='ltr'>Elymus</span> <span class='ocrx_word' id='word_1_280' title='bbox 1675 1832 1778 1874; x_wconf 89' lang='grc'><strong>391.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_142' title="bbox 1467 1887 1796 1936; baseline 0.018 -12"><span class='ocrx_word' id='word_1_281' title='bbox 1467 1887 1698 1936; x_wconf 71' lang='lat' dir='ltr'>Elytraria</span> <span class='ocrx_word' id='word_1_282' title='bbox 1726 1891 1796 1931; x_wconf 82' lang='lat'><strong>64.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_143' title="bbox 1466 1942 1913 1993; baseline 0.027 -14"><span class='ocrx_word' id='word_1_283' title='bbox 1466 1942 1788 1993; x_wconf 74' lang='lat' dir='ltr'>Elytrophorus</span> <span class='ocrx_word' id='word_1_284' title='bbox 1817 1946 1913 1991; x_wconf 83' lang='lat'>342.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_144' title="bbox 1468 1999 1795 2043; baseline 0.021 -7"><span class='ocrx_word' id='word_1_285' title='bbox 1468 1999 1669 2039; x_wconf 86' lang='lat' dir='ltr'>Embelia</span> <span class='ocrx_word' id='word_1_286' title='bbox 1698 2003 1795 2043; x_wconf 89' lang='grc'><strong>620.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_145' title="bbox 1466 2055 1891 2103; baseline 0.026 -11"><span class='ocrx_word' id='word_1_287' title='bbox 1466 2055 1766 2098; x_wconf 85' lang='lat' dir='ltr'>Embothrium</span> <span class='ocrx_word' id='word_1_288' title='bbox 1793 2060 1891 2103; x_wconf 91' lang='grc'><strong>536.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_146' title="bbox 1465 2110 1758 2155; baseline 0.024 -7"><span class='ocrx_word' id='word_1_289' title='bbox 1465 2110 1604 2150; x_wconf 82' lang='lat' dir='ltr'>Emex</span> <span class='ocrx_word' id='word_1_290' title='bbox 1636 2113 1758 2155; x_wconf 89' lang='grc'><strong>1221.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_147' title="bbox 1464 2167 1872 2216; baseline 0.022 -11"><span class='ocrx_word' id='word_1_291' title='bbox 1464 2167 1745 2216; x_wconf 85' lang='lat' dir='ltr'>Empleurum</span> <span class='ocrx_word' id='word_1_292' title='bbox 1772 2172 1872 2214; x_wconf 89' lang='grc'><strong>542.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_148' title="bbox 1465 2223 1888 2273; baseline 0.021 -12"><span class='ocrx_word' id='word_1_293' title='bbox 1465 2223 1760 2273; x_wconf 69' lang='lat' dir='ltr'><strong>Eue-hylaena</strong></span> <span class='ocrx_word' id='word_1_294' title='bbox 1789 2229 1888 2271; x_wconf 90' lang='lat'>995.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_149' title="bbox 1465 2279 1874 2326; baseline 0.024 -10"><span class='ocrx_word' id='word_1_295' title='bbox 1465 2279 1717 2322; x_wconf 82' lang='lat' dir='ltr'>Endiandra</span> <span class='ocrx_word' id='word_1_296' title='bbox 1748 2285 1874 2326; x_wconf 80' lang='lat'>1341.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_150' title="bbox 1465 2336 1837 2387; baseline 0.019 -14"><span class='ocrx_word' id='word_1_297' title='bbox 1465 2336 1738 2387; x_wconf 84' lang='lat' dir='ltr'>Endopogon</span> <span class='ocrx_word' id='word_1_298' title='bbox 1768 2341 1837 2380; x_wconf 89' lang='lat'><strong>66.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_151' title="bbox 1466 2392 1898 2440; baseline 0.028 -12"><span class='ocrx_word' id='word_1_299' title='bbox 1466 2392 1743 2433; x_wconf 81' lang='lat' dir='ltr'>Enkiauthus</span> <span class='ocrx_word' id='word_1_300' title='bbox 1776 2397 1898 2440; x_wconf 81' lang='lat'>1398.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_152' title="bbox 1465 2448 1794 2493; baseline 0.018 -7"><span class='ocrx_word' id='word_1_301' title='bbox 1465 2448 1668 2489; x_wconf 83' lang='lat' dir='ltr'>Enslinia</span> <span class='ocrx_word' id='word_1_302' title='bbox 1697 2452 1794 2493; x_wconf 88' lang='grc'><strong>901.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_153' title="bbox 1465 2505 1780 2552; baseline 0.019 -10"><span class='ocrx_word' id='word_1_303' title='bbox 1465 2505 1652 2552; x_wconf 83' lang='lat' dir='ltr'>Epacris</span> <span class='ocrx_word' id='word_1_304' title='bbox 1681 2507 1780 2548; x_wconf 87' lang='grc'><strong>685.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_154' title="bbox 1463 2560 1826 2608; baseline 0.022 -11"><span class='ocrx_word' id='word_1_305' title='bbox 1463 2560 1660 2608; x_wconf 80' lang='lat' dir='ltr'><strong>Ephielis</strong></span> <span class='ocrx_word' id='word_1_306' title='bbox 1702 2563 1826 2605; x_wconf 89' lang='grc'><strong>1280.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_155' title="bbox 1464 2616 1853 2667; baseline 0.023 -14"><span class='ocrx_word' id='word_1_307' title='bbox 1464 2616 1726 2667; x_wconf 83' lang='lat' dir='ltr'>Epicampes</span> <span class='ocrx_word' id='word_1_308' title='bbox 1755 2621 1853 2662; x_wconf 93' lang='grc'><strong>312.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_156' title="bbox 1465 2672 1827 2722; baseline 0.019 -13"><span class='ocrx_word' id='word_1_309' title='bbox 1465 2672 1664 2722; x_wconf 80' lang='lat' dir='ltr'>Epigaea</span> <span class='ocrx_word' id='word_1_310' title='bbox 1705 2676 1827 2716; x_wconf 84' lang='lat'>1298.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_157' title="bbox 1464 2729 1864 2777; baseline 0.018 -10"><span class='ocrx_word' id='word_1_311' title='bbox 1464 2729 1709 2777; x_wconf 80' lang='lat' dir='ltr'>Epilobium</span> <span class='ocrx_word' id='word_1_312' title='bbox 1741 2733 1864 2774; x_wconf 87' lang='grc'><strong>1290.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_158' title="bbox 1465 2784 1859 2833; baseline 0.018 -11"><span class='ocrx_word' id='word_1_313' title='bbox 1465 2784 1735 2833; x_wconf 83' lang='lat' dir='ltr'>Epimedium</span> <span class='ocrx_word' id='word_1_314' title='bbox 1763 2789 1859 2829; x_wconf 67' lang='grc'><strong>497.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_159' title="bbox 1464 2840 1874 2884; baseline 0.015 -6"><span class='ocrx_word' id='word_1_315' title='bbox 1464 2840 1774 2882; x_wconf 80' lang='lat' dir='ltr'>Eranthemum</span> <span class='ocrx_word' id='word_1_316' title='bbox 1804 2845 1874 2884; x_wconf 93' lang='grc'><strong>70.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_160' title="bbox 1466 2896 1863 2940; baseline 0.015 -6"><span class='ocrx_word' id='word_1_317' title='bbox 1466 2896 1705 2937; x_wconf 82' lang='lat' dir='ltr'>Erenmrus</span> <span class='ocrx_word' id='word_1_318' title='bbox 1739 2901 1863 2940; x_wconf 85' lang='grc'><strong>1146.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_161' title="bbox 1465 2952 1808 2995; baseline 0.012 -4"><span class='ocrx_word' id='word_1_319' title='bbox 1465 2952 1683 2993; x_wconf 83' lang='lat' dir='ltr'>Eriachne</span> <span class='ocrx_word' id='word_1_320' title='bbox 1711 2956 1808 2995; x_wconf 82' lang='lat'>344.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_162' title="bbox 1467 3009 1829 3051; baseline 0.008 -3"><span class='ocrx_word' id='word_1_321' title='bbox 1467 3009 1730 3049; x_wconf 81' lang='lat' dir='ltr'>Eriauthera</span> <span class='ocrx_word' id='word_1_322' title='bbox 1759 3012 1829 3051; x_wconf 90' lang='grc'><strong>81.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_163' title="bbox 1468 3065 1832 3107; baseline 0.005 -3"><span class='ocrx_word' id='word_1_323' title='bbox 1468 3065 1705 3104; x_wconf 80' lang='lat' dir='ltr'>Erianthus</span> <span class='ocrx_word' id='word_1_324' title='bbox 1734 3066 1832 3107; x_wconf 87' lang='grc'><strong>399.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_164' title="bbox 1469 3121 1755 3160; baseline 0 0"><span class='ocrx_word' id='word_1_325' title='bbox 1469 3121 1605 3160; x_wconf 69' lang='grc' dir='ltr'><strong>Ετίυὲὶ</strong></span> <span class='ocrx_word' id='word_1_326' title='bbox 1635 3122 1755 3160; x_wconf 85' lang='grc'><strong>1232.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_165' title="bbox 1471 3176 1837 3218; baseline 0 -1"><span class='ocrx_word' id='word_1_327' title='bbox 1471 3176 1709 3217; x_wconf 84' lang='lat' dir='ltr'>Eriochloa</span> <span class='ocrx_word' id='word_1_328' title='bbox 1738 3177 1837 3218; x_wconf 85' lang='grc'><strong>253.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_166' title="bbox 1472 3233 1893 3282; baseline 0.01 -10"><span class='ocrx_word' id='word_1_329' title='bbox 1472 3233 1738 3282; x_wconf 75' lang='lat' dir='ltr'>Eriogonum</span> <span class='ocrx_word' id='word_1_330' title='bbox 1770 3234 1893 3276; x_wconf 89' lang='grc'><strong>1367.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_167' title="bbox 1477 3289 1902 3337; baseline 0.012 -10"><span class='ocrx_word' id='word_1_331' title='bbox 1477 3289 1775 3337; x_wconf 76' lang='lat' dir='ltr'>Eriopetalum</span> <span class='ocrx_word' id='word_1_332' title='bbox 1803 3292 1902 3332; x_wconf 86' lang='grc'><strong>888.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_168' title="bbox 1477 3344 1890 3391; baseline 0.01 -9"><span class='ocrx_word' id='word_1_333' title='bbox 1477 3344 1761 3391; x_wconf 84' lang='lat' dir='ltr'>Eriophorum</span> <span class='ocrx_word' id='word_1_334' title='bbox 1790 3346 1890 3386; x_wconf 87' lang='grc'><strong>207.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_169' title="bbox 1476 3400 1971 3447; baseline 0.014 -10"><span class='ocrx_word' id='word_1_335' title='bbox 1476 3400 1800 3447; x_wconf 79' lang='lat' dir='ltr'><strong>Eriospernmm</strong></span> <span class='ocrx_word' id='word_1_336' title='bbox 1846 3403 1971 3447; x_wconf 85' lang='grc'><strong>1144.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_170' title="bbox 1477 3455 1926 3501; baseline 0.018 -8"><span class='ocrx_word' id='word_1_337' title='bbox 1477 3455 1770 3496; x_wconf 82' lang='lat' dir='ltr'>Eriostemum</span> <span class='ocrx_word' id='word_1_338' title='bbox 1802 3458 1926 3501; x_wconf 84' lang='lat'>1418.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_171' title="bbox 1477 3512 1751 3556; baseline 0.015 -4"><span class='ocrx_word' id='word_1_339' title='bbox 1477 3512 1654 3555; x_wconf 75' lang='lat' dir='ltr'>Erisma</span> <span class='ocrx_word' id='word_1_340' title='bbox 1682 3515 1751 3556; x_wconf 85' lang='grc'><strong>21.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_15' title="bbox 1479 3569 1583 3623">
+    <p class='ocr_par' dir='ltr' id='par_1_16' title="bbox 1479 3569 1583 3623">
+     <span class='ocr_line' id='line_1_172' title="bbox 1479 3569 1583 3623; baseline 0.019 -2"><span class='ocrx_word' id='word_1_341' title='bbox 1479 3569 1583 3623; x_wconf 86' lang='grc'><strong>103</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
